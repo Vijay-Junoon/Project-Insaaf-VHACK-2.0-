@@ -1,4 +1,4 @@
-﻿CaseNo,Offense,CaseType,Vulnerability,AgeofCase,Custody/bailmatter,UnderTrail
+﻿CaseNo,Offense,CaseType,Vulnerability,AgeofCase,BailMatter,UnderTrail
 101,Heinous,Murder,None,11,Yes,Yes
 102,Serious,Kidnapping,children,6,Yes,No
 103,Moderate,Theft,Senior,2,No,No
